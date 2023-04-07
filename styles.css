@@ -33,7 +33,7 @@ nav a {
 
 /* Hero Section Styles */
 .hero {
-    background-image: url(/new.jpg);
+    background-image: url(new.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color:white;
